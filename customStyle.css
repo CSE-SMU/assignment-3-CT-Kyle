@@ -1,0 +1,8 @@
+/*Custom css for example2.html*/
+#banner {
+    background:url("http://www.firescotland.gov.uk/media/455327/inpage_banner___fireworks.jpg");
+/*    content:"GGGHHHGGGHHHGGHH";*/
+    width:100%;
+    min-height:25rem;
+/*    position:relative;*/
+}
